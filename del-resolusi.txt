@@ -1,2 +1,3 @@
 Del Resolusi:
 - Backend handal
+- Bisa tailwind dasar
